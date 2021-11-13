@@ -1,2 +1,2 @@
-# sudhamshundavalli.github.io
+# Basic Spotify Clone
 Spotify Web Clone
